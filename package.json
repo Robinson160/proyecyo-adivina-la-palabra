@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-adivina-la-palabra",
+  "version": "1.0.0",
+  "description": "proyecto del curso de programacion basica de js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  }, 
+  "author": "Robinson",
+  "license": "MIT",
+  "keywords": [
+    "js",
+    "proyecto",
+    "javascript"
+  ],
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
